@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "713165390381",
+    "firebase_url": "https://podium-96488.firebaseio.com",
+    "project_id": "podium-96488",
+    "storage_bucket": "podium-96488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713165390381:android:441cb7e532f04d68",
+        "android_client_info": {
+          "package_name": "com.example.saurav.podium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713165390381-o5rrs9p5o883r9jhn0gs21dflfrolsio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurav.podium",
+            "certificate_hash": "d2a4b4965f8b9dab3b4c99e095b5944fdbe4af05"
+          }
+        },
+        {
+          "client_id": "713165390381-ho6jq22p3a26pvd76j8phdfkjuf2ehjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9BsL499zQY9i42u9BZw8xOjLeZ_6Nno"
+        },
+        {
+          "current_key": "AIzaSyCg9BsL499zQY9i42u9BZw8xOjLeZ_6Nno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713165390381-ho6jq22p3a26pvd76j8phdfkjuf2ehjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
